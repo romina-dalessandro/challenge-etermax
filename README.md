@@ -1,6 +1,6 @@
 # Predicción de Churn D1 — Trivia Crack
 
-Challenge de Data Science para Etermax. El objetivo es predecir qué usuarios que instalan Trivia Crack hoy no van a volver a jugar al día siguiente (churn D1).
+Challenge para Etermax. El objetivo es predecir qué usuarios que instalan Trivia Crack hoy no van a volver a jugar al día siguiente (churn D1).
 
 ---
 
