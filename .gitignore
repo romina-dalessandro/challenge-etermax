@@ -1,0 +1,14 @@
+# Archivos excluidos del entregable
+guion_presentacion.md
+presentacion_churn_etermax.docx
+notebooks/09_presentation.ipynb
+
+# Dataset original (no subir datos de la empresa)
+data/raw/Dataset DS - 26.csv
+
+# Sistema
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
